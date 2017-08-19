@@ -1,0 +1,12 @@
+{
+    "name": "root/cms",
+    "authors": [
+        {
+            "name": "AhmedShab",
+            "email": "ahmed.vuw@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
